@@ -1,0 +1,16 @@
+obj\Release\Kalkulator.exe
+obj\Release\Kalkulator.pdb
+bin\Release\Kalkulator.exe
+bin\Release\Kalkulator.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Kalkulator.Properties.Resources.resources
+obj\Release\Kalkulator.csproj.GenerateResource.Cache
+obj\Release\Kalkulator.frmKalkulator.resources
+bin\Debug\Kalkulator.exe
+bin\Debug\Kalkulator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kalkulator.frmKalkulator.resources
+obj\Debug\Kalkulator.Properties.Resources.resources
+obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+obj\Debug\Kalkulator.exe
+obj\Debug\Kalkulator.pdb

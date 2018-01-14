@@ -1,0 +1,9 @@
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\bin\Release\Kalkulator.pdb
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.frmKalkulator.resources
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.exe
+C:\Users\Mateusz\Desktop\Kalkulator\Kalkulator\obj\Release\Kalkulator.pdb
